@@ -21,5 +21,5 @@ In this project, you will finalize the previous project 0x0B by implementing a d
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Ruthuwamahoro/alu-smiling-school-javascript.git
+   cd https://github.com/Ruthuwamahoro/alu-smiling-school-javascript.git
